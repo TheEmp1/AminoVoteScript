@@ -1,1 +1,1 @@
-# amino-vote-script-BY-EMP
+vote-script
